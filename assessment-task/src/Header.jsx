@@ -10,7 +10,7 @@ export default function Header() {
       <div className="logo">
         <img src={Logo} alt="Company Logo" />
         <span className="email">/</span>
-        <span className="email">support@grew.mail</span>
+        <a href="#" className="email">support@grew.mail</a>
       </div>
       <nav className="nav-links">
         <a href="#">Automation</a>

@@ -1,7 +1,7 @@
-import Logo2 from "./assets/logo2.png"
-import img1 from "./assets/img1.png"
-import img2 from "./assets/img2.png"
-import profile from "./assets/profile.png"
+import Logo2 from "./assets/logo2.png";
+import img1 from "./assets/img1.png";
+import img2 from "./assets/img2.png";
+import profile from "./assets/profile.png";
 
 export default function HeroSection() {
   return (
