@@ -13,14 +13,14 @@ export default function Header() {
         <a href="#" className="email">support@grew.mail</a>
       </div>
       <nav className="nav-links">
-        <a href="#">Automation</a>
-        <a href="#">Solutions</a>
-        <a href="#">Pricing</a>
+        <a href="#">Automation</a>.
+        <a href="#">Solutions</a>.
+        <a href="#">Pricing</a>.
         <a href="#">Email Templates</a>
       </nav>
       <div className="cta-buttons">
         <a href="#" className="faq">
-          FAQ
+          Faq
         </a>
         <a href="#" className="other">
           En <FontAwesomeIcon icon={faGlobe} />
